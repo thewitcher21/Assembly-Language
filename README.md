@@ -2,12 +2,11 @@
 
 <img align="" src="https://github.com/aw-junaid/aw-junaid/blob/main/Assets/asset5.webp" width="1000" height="150" alt="awjunaid">
 
-![GitHub commit activity](https://img.shields.io/github/commit-activity/t/aw-junaid/computer-science)
-![GitHub contributors](https://img.shields.io/github/contributors/aw-junaid/computer-science)
-![GitHub repo size](https://img.shields.io/github/repo-size/aw-junaid/computer-science)
+![GitHub commit activity](https://img.shields.io/github/commit-activity/t/aw-junaid/Assembly-Language)
+![GitHub contributors](https://img.shields.io/github/contributors/aw-junaid/Assembly-Language)
+![GitHub repo size](https://img.shields.io/github/repo-size/aw-junaid/Assembly-Language)
 
 # Connect With Me:
-
 
 <div align="left">
   <a href="https://twitter.com/awJunaid_" target="_blank">
