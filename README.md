@@ -2,7 +2,6 @@
 
 <img align="" src="https://github.com/aw-junaid/aw-junaid/blob/main/Assets/asset5.webp" width="1000" height="150" alt="awjunaid">
 
-
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/t/aw-junaid/Assembly-Language)
 ![GitHub contributors](https://img.shields.io/github/contributors/aw-junaid/Assembly-Language)
 ![GitHub repo size](https://img.shields.io/github/repo-size/aw-junaid/Assembly-Language)
